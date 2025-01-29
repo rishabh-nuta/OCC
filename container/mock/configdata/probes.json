@@ -1,0 +1,52 @@
+[
+  {
+    "id": "78c53f6f-269a-4f7c-b495-44ffcb429834",
+    "name": "X-Ray logs for 28 jan",
+    "date_created": "29/01/2025",
+    "from_date": "29/01/2025",
+    "end_date": "30/01/2025",
+    "application_name": "X-Ray",
+    "subsytem_name": "Curie",
+    "link": "https://github.com/nutanix-saas-engineering/xray/blob/main/ui/app/src/utils/AppUtils.js"
+  },
+  {
+    "id": "78c53f6f-269a-4f7c-b495-44ffcb429834",
+    "name": "Sizer logs for 22 jan",
+    "date_created": "26/01/2025",
+    "from_date": "22/01/2025",
+    "end_date": "23/01/2025",
+    "application_name": "Sizer",
+    "subsytem_name": "Server",
+    "link": ""
+  },
+  {
+    "id": "78c53f6f-269a-4f7c-b495-44ffcb429834",
+    "name": "Collector logs for 24 jan",
+    "date_created": "26/01/2025",
+    "from_date": "24/01/2025",
+    "end_date": "25/01/2025",
+    "application_name": "Collector",
+    "subsytem_name": "collector",
+    "link": ""
+  },
+  {
+    "id": "78c53f6f-269a-4f7c-b495-44ffcb429834",
+    "name": "Sizer logs for 27 jan",
+    "date_created": "27/01/2025",
+    "from_date": "27/01/2025",
+    "end_date": "28/01/2025",
+    "application_name": "Sizer",
+    "subsytem_name": "UI",
+    "link": ""
+  },
+  {
+    "id": "78c53f6f-269a-4f7c-b495-44ffcb429834",
+    "name": "X-Ray logs for 28 jan",
+    "date_created": "28/01/2025",
+    "from_date": "28/01/2025",
+    "end_date": "29/01/2025",
+    "application_name": "X-Ray",
+    "subsytem_name": "Server",
+    "link": ""
+  }
+]
