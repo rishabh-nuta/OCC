@@ -11,6 +11,7 @@ import LandingPage from './pages/LandingPage';
 import FaqPage from './pages/FaqPage';
 
 import Header from './components/Header';
+import ChatPage from './pages/ChatPage';
 
 function App({ history }) {
   return (
@@ -22,6 +23,7 @@ function App({ history }) {
           <Switch>
             <Route exact path="/" render={(props) => <LandingPage { ...props } history={ history } />} />
             <Route exact path="/docs" render={() => <FaqPage />} />
+            <Route exact path="/chat" render={() => <ChatPage />} />
           </Switch>
         </div>
       </FlexLayout>
